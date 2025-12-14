@@ -1,1 +1,1 @@
-console.log("CI/CD pipeline initialized")
+console.log("CI pipeline initialized")
